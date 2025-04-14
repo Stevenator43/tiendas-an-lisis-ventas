@@ -1,2 +1,1 @@
-# tiendas-an-lisis-ventas
-nálisis de datos de ventas de diversas tiendas, incluyendo ingresos, costos de envío, categorías de productos y calificaciones de clientes, con visualización de resultados.
+[README.md](https://github.com/user-attachments/files/19744629/README.md)
